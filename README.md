@@ -66,7 +66,7 @@ This repository demonstrates my ability to deploy and configure **Active Directo
 ---
 
 ### **5. Automating User Account Creation**  
-- Used **PowerShell** to automate the creation of user accounts in the **_EMPLOYEES** OU.  
+- Using **PowerShell** I efficiently created multiple users in the **_EMPLOYEES** OU.  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75b54abe-0b00-497b-8fe9-94639b013bd2" alt="All Employees Added" width="900"/>
